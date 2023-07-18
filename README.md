@@ -4,7 +4,7 @@
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
 -  [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
--  [Whitelist endpoints on Cisco ISE through REST API](https://github.com/joshmadakor1/Algorithms-Practice)
+-  [Whitelist endpoints on Cisco ISE through REST API](https://github.com/qutubqadri/CiscoISEAPI)
 -  [TCP Port Scanner/Detect](https://github.com/qutubqadri/PortScanner)
   
 <h2>👨‍💻 Software Development Projects:</h2>
