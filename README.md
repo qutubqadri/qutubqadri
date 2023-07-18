@@ -5,7 +5,7 @@
 
 -  [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 -  [Whitelist endpoints on Cisco ISE through REST API](https://github.com/joshmadakor1/Algorithms-Practice)
--  [TCP Port Scanner/Detect](https://github.com/joshmadakor1/Algorithms-Practice)
+-  [TCP Port Scanner/Detect](https://github.com/qutubqadri/PortScanner)
   
 <h2>👨‍💻 Software Development Projects:</h2>
 
