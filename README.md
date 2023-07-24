@@ -3,14 +3,12 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
--  [Active Directory Home Lab](https://github.com/joshmadakor1/Algorithms-Practice)
 -  [Whitelist endpoints on Cisco ISE through REST API](https://github.com/qutubqadri/CiscoISEAPI)
 -  [TCP Port Scanner/Detect](https://github.com/qutubqadri/PortScanner)
   
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>👨‍💻 Python fun:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- [Tic-Tac-Toe in Python](https://github.com/qutubqadri/tictactoe/)
 
 <h2> 🤳 Connect with me:</h2>
 
